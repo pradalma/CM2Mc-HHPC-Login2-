@@ -2021,7 +2021,7 @@ cd $work
 /
 
  &mg_drag_nml
-       gmax  = 0.51,
+       gmax  = 0.5,
        acoef = 1.,
        do_conserve_energy = .true.,
        source_of_sgsmtn = 'computed'
